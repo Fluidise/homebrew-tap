@@ -5,7 +5,7 @@ This is the official Fluidise Homebrew tap, hosted on GitHub.
 
 ## Publication status
 
-The formula is prepared for fluidise-lint 0.1.0 on macOS Apple Silicon and Intel.
+The formula is prepared for fluidise-clint 0.1.0 on macOS Apple Silicon and Intel.
 Both macOS archives and SHA256SUMS-macos are published under
 https://packages.acrazie.dev/lint/0.1.0/ and their HTTPS downloads match the
 reviewed hashes. A real Homebrew installation on macOS ARM64 now succeeds, including six
