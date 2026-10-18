@@ -1,9 +1,7 @@
 # Fluidise Homebrew tap
 
 This repository contains Homebrew installation recipes, not application sources.
-The authoritative Git repository is hosted on Entire. GitHub is a one-way public
-copy of the approved main branch, for standard Git HTTPS access by Homebrew.
-Do not edit the GitHub copy directly.
+This is the official Fluidise Homebrew tap, hosted on GitHub.
 
 ## Publication status
 
